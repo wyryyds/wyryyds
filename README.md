@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wyryyds
 - 👀 I’m interested in unity
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on a Game Programer
 - 📫 How to reach me 2857970654@qq.com
 
 <!---
