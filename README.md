@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @wyryyds
 - 👀 I’m interested in unity
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning C# C++ Shader
 - 💞️ I’m looking to collaborate on a Game Programer
 - 📫 How to reach me 2857970654@qq.com
 - 在某一天成为一名拥有强大技术力的家伙吧！
