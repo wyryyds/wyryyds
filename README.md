@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wyryyds&show_icons=true&icon_color=CE1D2D&text_color=87CEEB&bg_color=708090&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wyryyds&show_icons=true&icon_color=EE82EE&text_color=87CEEB&bg_color=708090&hide_title=true" />
 
 - 👋 Hi, I’m @wyryyds
 - 👀 I’m interested in unity
