@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on a Game Programer
 - 📫 How to reach me 2857970654@qq.com
-<img src="https://s1.328888.xyz/2022/09/02/k1qr7.jpg" />
 <!---
 wyryyds/wyryyds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
